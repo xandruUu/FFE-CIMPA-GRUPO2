@@ -1,0 +1,64 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="Brillo">
+			<method name="ChangeSlider"/>
+		</type>
+		<type fullname="changescene">
+			<method name="ChangeSceneNivel"/>
+			<method name="ChangeSceneNivel"/>
+			<method name="ChangeSceneNivel"/>
+		</type>
+		<type fullname="CodigoPausa">
+			<method name="IrAlMenu"/>
+			<method name="IrAlMenu"/>
+			<method name="Reanudar"/>
+			<method name="Reanudar"/>
+		</type>
+		<type fullname="quitgame">
+			<method name="CloseGame"/>
+			<method name="CloseGame"/>
+			<method name="CloseGame"/>
+		</type>
+		<type fullname="Resolucion">
+			<method name="ActivarPantallaCompleta"/>
+			<method name="CambiarResolucion"/>
+		</type>
+		<type fullname="volumen">
+			<method name="ChangeSlider"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine.AudioModule" ignoreIfMissing="1">
+		<type fullname="UnityEngine.AudioSource">
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+			<method name="Play"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine.CoreModule" ignoreIfMissing="1">
+		<type fullname="UnityEngine.GameObject">
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+		</type>
+		<type fullname="UnityEngine.Object">
+			<method name="set_name"/>
+		</type>
+	</assembly>
+</linker>

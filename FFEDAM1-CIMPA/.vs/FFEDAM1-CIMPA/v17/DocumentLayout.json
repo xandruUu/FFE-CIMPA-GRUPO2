@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mario\\Documents\\GitHub\\ProyectoFFE-DAM1\\FFEDAM1-CIMPA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA83ABD-50B5-65BE-D197-CCDCE89C18AB}|Assembly-CSharp.csproj|c:\\users\\mario\\documents\\github\\proyectoffe-dam1\\ffedam1-cimpa\\assets\\character\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BA83ABD-50B5-65BE-D197-CCDCE89C18AB}|Assembly-CSharp.csproj|solutionrelative:assets\\character\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BA83ABD-50B5-65BE-D197-CCDCE89C18AB}|Assembly-CSharp.csproj|C:\\Users\\mario\\Documents\\GitHub\\ProyectoFFE-DAM1\\FFEDAM1-CIMPA\\Assets\\Scripts\\ClickSystem.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1BA83ABD-50B5-65BE-D197-CCDCE89C18AB}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\ClickSystem.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "playerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\Documents\\GitHub\\ProyectoFFE-DAM1\\FFEDAM1-CIMPA\\Assets\\Character\\playerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Character\\playerMovement.cs",
+              "ToolTip": "C:\\Users\\mario\\Documents\\GitHub\\ProyectoFFE-DAM1\\FFEDAM1-CIMPA\\Assets\\Character\\playerMovement.cs",
+              "RelativeToolTip": "Assets\\Character\\playerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:51:04.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClickSystem.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\Documents\\GitHub\\ProyectoFFE-DAM1\\FFEDAM1-CIMPA\\Assets\\Scripts\\ClickSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ClickSystem.cs",
+              "ToolTip": "C:\\Users\\mario\\Documents\\GitHub\\ProyectoFFE-DAM1\\FFEDAM1-CIMPA\\Assets\\Scripts\\ClickSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ClickSystem.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAYwGAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:39:49.055Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

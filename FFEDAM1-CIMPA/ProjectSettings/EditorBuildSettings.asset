@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: b1a4b512268190f41a746bb1533ceda0
+  - enabled: 1
+    path: Assets/Scenes/hall.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/login.unity
+    guid: ee0bd8e85629bf940b9223733ca88874
+  - enabled: 1
+    path: Assets/Scenes/basuras.unity
+    guid: 4bfb0dd1bbd4aac4e806275cd17271a0
+  - enabled: 1
+    path: Assets/Scenes/ordenador.unity
+    guid: 2d5c22f770530734db553bea9a1c3e4b
+  - enabled: 1
+    path: Assets/Scenes/presentacion.unity
+    guid: 15f5ab1dcc4c7cc4ebe8c02fca6c577a
+  - enabled: 1
+    path: Assets/Scenes/certificado.unity
+    guid: 53cee43d06df5f243b4ff1040f4c2f8b
+  - enabled: 1
+    path: Assets/Scenes/menucertificado.unity
+    guid: c4ffa3ce38a214e4ab56994bbece5418
+  - enabled: 1
+    path: Assets/Scenes/creditos.unity
+    guid: 31198b779b9095d4f9dce4c44016cda0
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
+  m_UseUCBPForAssetBundles: 0

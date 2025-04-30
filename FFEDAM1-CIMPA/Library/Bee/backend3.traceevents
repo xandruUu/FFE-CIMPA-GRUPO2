@@ -1,0 +1,559 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1745574079791364, "dur":67, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1745574079791475, "dur":72383, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1745574079863870, "dur":180, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1745574079864119, "dur":718, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1745574079865077, "dur":136, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/level3" }}
+,{ "pid":12345, "tid":0, "ts":1745574079865255, "dur":99, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/level5" }}
+,{ "pid":12345, "tid":0, "ts":1745574079865480, "dur":90, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":0, "ts":1745574079865836, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":0, "ts":1745574079865994, "dur":90, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/sharedassets6.assets" }}
+,{ "pid":12345, "tid":0, "ts":1745574079866603, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":0, "ts":1745574079867604, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1745574079867801, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1745574079868455, "dur":75, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1745574079868835, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1745574079868948, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1745574079869221, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1745574079869309, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1745574079869437, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1745574079864868, "dur":5678, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1745574079870548, "dur":1770693, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1745574081641244, "dur":627, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1745574081642078, "dur":3225, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1745574079865219, "dur":5381, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1745574079876008, "dur":1285, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.36f1/Editor/Data/il2cpp/build/deploy" }}
+,{ "pid":12345, "tid":1, "ts":1745574079877294, "dur":10374, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.36f1/Editor/Data/il2cpp/libil2cpp" }}
+,{ "pid":12345, "tid":1, "ts":1745574079887670, "dur":377, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.36f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport" }}
+,{ "pid":12345, "tid":1, "ts":1745574079888047, "dur":2391, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.36f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono" }}
+,{ "pid":12345, "tid":1, "ts":1745574079890439, "dur":255, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.36f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/Data/Resources" }}
+,{ "pid":12345, "tid":1, "ts":1745574079890694, "dur":405, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.36f1/Editor/Data/Tools/BuildPipeline" }}
+,{ "pid":12345, "tid":1, "ts":1745574079891100, "dur":361, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"Library/PlayerDataCache/Win642/Data" }}
+,{ "pid":12345, "tid":1, "ts":1745574079891461, "dur":73, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"Temp/StagingArea/Data/Plugins" }}
+,{ "pid":12345, "tid":1, "ts":1745574079870613, "dur":21033, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1745574079891677, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteResponseFile Library/Bee/artifacts/rsp/16376476766556586630.rsp" }}
+,{ "pid":12345, "tid":1, "ts":1745574079891774, "dur":152, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1745574079891930, "dur":168, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"WriteResponseFile Library/Bee/artifacts/rsp/16376476766556586630.rsp" }}
+,{ "pid":12345, "tid":1, "ts":1745574079892101, "dur":1550, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"UnityLinker C:/Users/adris/Documents/GitHub/ProyectoFFE-DAM1/FFEDAM1-CIMPA/Library/Bee/artifacts/unitylinker_dwek.traceevents" }}
+,{ "pid":12345, "tid":1, "ts":1745574079893652, "dur":3197, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1745574079905788, "dur":200971, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Splines.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745574079905276, "dur":201487, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/Unity.Splines.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745574080106797, "dur":4361, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/Unity.Splines.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745574080111244, "dur":130278, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745574080111169, "dur":130356, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745574080241565, "dur":4364, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745574080246025, "dur":75421, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745574080245938, "dur":75513, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745574080321503, "dur":5368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745574080326935, "dur":186011, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745574080326880, "dur":186070, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745574080512993, "dur":2393, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745574080515483, "dur":183191, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745574080515396, "dur":183284, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745574080698739, "dur":16678, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745574080715509, "dur":112830, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745574080715432, "dur":112910, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745574080828373, "dur":2093, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745574080830535, "dur":190876, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745574080830475, "dur":190940, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745574081021456, "dur":7215, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745574081028746, "dur":398960, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745574081028682, "dur":399031, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745574081427795, "dur":5681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1745574081433489, "dur":207798, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1745574079865615, "dur":5065, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1745574079870689, "dur":2256, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1745574079872946, "dur":2645, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1745574079875591, "dur":16060, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1745574079891677, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":2, "ts":1745574079891748, "dur":269, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1745574079892026, "dur":1252, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1745574079893280, "dur":100, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1745574079893444, "dur":11877, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1745574079905508, "dur":283621, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745574079905328, "dur":283806, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745574080189214, "dur":34654, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745574080223952, "dur":163980, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745574080223877, "dur":164058, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745574080387996, "dur":26040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745574080414121, "dur":107514, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745574080414042, "dur":107600, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745574080521690, "dur":3952, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745574080525717, "dur":84647, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745574080525651, "dur":84716, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745574080610412, "dur":11449, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745574080621925, "dur":128732, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745574080621869, "dur":128792, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745574080750702, "dur":2257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745574080753030, "dur":155578, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745574080752967, "dur":155645, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745574080908668, "dur":2313, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745574080911073, "dur":141692, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745574080910993, "dur":141774, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745574081052842, "dur":5235, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745574081058180, "dur":395986, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745574081058086, "dur":396084, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745574081454225, "dur":3048, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1745574081457281, "dur":183974, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1745574079865320, "dur":5297, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1745574079870625, "dur":1723, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1745574079872349, "dur":1878, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1745574079874228, "dur":2468, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1745574079876697, "dur":15040, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1745574079891748, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":3, "ts":1745574079891858, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1745574079891980, "dur":239, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1745574079892219, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1745574079892291, "dur":88, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1745574079892388, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1745574079892522, "dur":12843, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1745574079905562, "dur":363712, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745574079905369, "dur":363908, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745574080269320, "dur":3932, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745574080273325, "dur":487453, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745574080273262, "dur":487521, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745574080760840, "dur":3437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745574080764386, "dur":269789, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745574080764287, "dur":269894, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745574081034230, "dur":7932, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745574081042225, "dur":189357, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745574081042171, "dur":189439, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745574081231628, "dur":70, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1745574081231711, "dur":4354, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":3, "ts":1745574081236072, "dur":405175, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1745574079865414, "dur":5220, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1745574079870643, "dur":1979, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1745574079872623, "dur":3047, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1745574079875671, "dur":16214, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1745574079891889, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1745574079891976, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1745574079892045, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1745574079892137, "dur":172, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1745574079892318, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1745574079892395, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1745574079892466, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1745574079892520, "dur":12789, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1745574079905629, "dur":104174, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1745574079905315, "dur":104491, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1745574080009938, "dur":7919, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1745574080017939, "dur":86662, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1745574080017866, "dur":86740, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1745574080104655, "dur":3517, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1745574080108249, "dur":391092, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1745574080108181, "dur":391163, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1745574080499469, "dur":3920, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1745574080503473, "dur":242601, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1745574080503401, "dur":242677, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1745574080746123, "dur":2647, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1745574080748883, "dur":268330, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1745574080748774, "dur":268441, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1745574081017251, "dur":6904, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1745574081024347, "dur":378215, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Drawing.dll" }}
+,{ "pid":12345, "tid":4, "ts":1745574081024167, "dur":378398, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":4, "ts":1745574081402627, "dur":5881, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":4, "ts":1745574081408521, "dur":232716, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1745574079865482, "dur":5168, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1745574079870656, "dur":2792, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1745574079873450, "dur":2473, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1745574079875923, "dur":15927, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1745574079891862, "dur":199, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1745574079892062, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1745574079892134, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA.exe" }}
+,{ "pid":12345, "tid":5, "ts":1745574079892195, "dur":209, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1745574079892411, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1745574079892492, "dur":12805, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1745574079905611, "dur":115162, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745574079905299, "dur":115478, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745574080020846, "dur":2740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745574080023681, "dur":115150, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745574080023602, "dur":115233, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745574080138879, "dur":8955, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745574080147917, "dur":202922, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745574080147843, "dur":203000, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745574080350890, "dur":59308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745574080410282, "dur":502567, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745574080410206, "dur":502647, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745574080912908, "dur":11765, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745574080924762, "dur":90005, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745574080924687, "dur":90085, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745574081014865, "dur":2308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745574081017253, "dur":160091, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745574081017184, "dur":160164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745574081177398, "dur":2612, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1745574081180017, "dur":461272, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745574079865536, "dur":5128, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745574079870671, "dur":2217, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745574079872889, "dur":2294, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745574079875184, "dur":1250, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745574079876435, "dur":15282, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745574079891728, "dur":221, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1745574079891950, "dur":140, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745574079892099, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745574079892214, "dur":134, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745574079892357, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745574079892436, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745574079892513, "dur":12908, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1745574079905543, "dur":77476, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745574079905429, "dur":77594, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745574079985216, "dur":5347, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745574079990652, "dur":75152, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745574079990571, "dur":75238, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745574080065865, "dur":2557, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745574080068512, "dur":115513, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745574080068432, "dur":115600, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745574080184112, "dur":4049, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745574080188242, "dur":295655, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745574080188171, "dur":295729, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745574080483940, "dur":7102, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745574080491123, "dur":286252, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745574080491053, "dur":286326, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745574080777425, "dur":5331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745574080782836, "dur":82188, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745574080782767, "dur":82260, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745574080865077, "dur":2566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745574080867713, "dur":96268, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745574080867651, "dur":96334, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745574080964074, "dur":2543, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745574080966706, "dur":668961, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\mscorlib.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745574080966628, "dur":669042, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":6, "ts":1745574081635710, "dur":5435, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745574079865693, "dur":5034, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1745574079870741, "dur":2124, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1745574079872867, "dur":2439, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1745574079875307, "dur":16350, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1745574079891709, "dur":230, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1745574079891941, "dur":170, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":7, "ts":1745574079892118, "dur":151, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1745574079892273, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":7, "ts":1745574079892344, "dur":160, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1745574079892510, "dur":12924, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1745574079905554, "dur":369497, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745574079905441, "dur":369616, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745574080275124, "dur":7404, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745574080282599, "dur":389574, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745574080282540, "dur":389638, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745574080672238, "dur":5569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745574080677894, "dur":106955, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745574080677822, "dur":107030, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745574080784895, "dur":8538, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745574080793508, "dur":336700, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745574080793443, "dur":336770, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745574081130255, "dur":3000, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745574081133343, "dur":108999, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745574081133265, "dur":109083, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745574081242403, "dur":8524, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1745574081250934, "dur":390294, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1745574079865745, "dur":5023, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1745574079871598, "dur":584, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Net.Mail.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745574079870777, "dur":2466, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1745574079873244, "dur":3010, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1745574079876255, "dur":15654, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1745574079891918, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1745574079892020, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1745574079892081, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1745574079892145, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1745574079892252, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1745574079892314, "dur":149, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1745574079892470, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1745574079892526, "dur":12857, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1745574079905515, "dur":134412, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745574079905388, "dur":134542, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745574080040000, "dur":4410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745574080044488, "dur":148290, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745574080044423, "dur":148359, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745574080192821, "dur":35220, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745574080228149, "dur":89964, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745574080228062, "dur":90056, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745574080318161, "dur":5058, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745574080323298, "dur":173597, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745574080323231, "dur":173668, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745574080497375, "dur":3789, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745574080501242, "dur":120249, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745574080501175, "dur":120321, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745574080621552, "dur":2608, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745574080624241, "dur":97419, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745574080624171, "dur":97496, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745574080721784, "dur":4474, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745574080726837, "dur":187738, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745574080726273, "dur":188305, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745574080914631, "dur":5295, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745574080920050, "dur":214539, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745574080919949, "dur":214643, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745574081134639, "dur":14731, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745574081149488, "dur":289021, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745574081149382, "dur":289134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745574081438639, "dur":4232, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":8, "ts":1745574081442883, "dur":198375, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1745574079865817, "dur":4966, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1745574079870789, "dur":2323, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1745574079873113, "dur":1922, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1745574079875036, "dur":1768, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1745574079876804, "dur":14885, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1745574079891696, "dur":167, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":9, "ts":1745574079891864, "dur":127, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1745574079891996, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":9, "ts":1745574079892074, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1745574079892219, "dur":161, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1745574079892392, "dur":153, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1745574079892559, "dur":12902, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1745574079905549, "dur":135198, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":9, "ts":1745574079905462, "dur":135288, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":9, "ts":1745574080040806, "dur":57953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":9, "ts":1745574080098836, "dur":94348, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1745574080098769, "dur":94419, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1745574080193213, "dur":34169, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1745574080227466, "dur":290575, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1745574080227395, "dur":290650, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1745574080518107, "dur":4810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1745574080522986, "dur":309177, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":9, "ts":1745574080522927, "dur":309240, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":9, "ts":1745574080832189, "dur":119, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1745574080832325, "dur":5743, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":9, "ts":1745574080838146, "dur":89964, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1745574080838079, "dur":90037, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1745574080928155, "dur":2488, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1745574080930721, "dur":174474, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1745574080930654, "dur":174544, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1745574081105282, "dur":4634, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1745574081109994, "dur":127968, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1745574081109926, "dur":128039, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1745574081238003, "dur":2654, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1745574081240665, "dur":400578, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1745574079865894, "dur":4904, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1745574079870805, "dur":1881, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1745574079872687, "dur":2188, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1745574079874876, "dur":1942, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1745574079876819, "dur":14853, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1745574079891680, "dur":184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":10, "ts":1745574079891865, "dur":148, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1745574079892020, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":10, "ts":1745574079892094, "dur":447, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1745574079892557, "dur":12736, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1745574079905578, "dur":124736, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1745574079905303, "dur":125015, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1745574080030382, "dur":2501, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1745574080032953, "dur":153628, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1745574080032892, "dur":153693, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1745574080186642, "dur":41496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1745574080228242, "dur":549166, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Xml.dll" }}
+,{ "pid":12345, "tid":10, "ts":1745574080228143, "dur":549267, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":10, "ts":1745574080777437, "dur":6655, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":10, "ts":1745574080784167, "dur":87753, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1745574080784104, "dur":87820, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1745574080871980, "dur":8803, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1745574080880885, "dur":372199, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Security.dll" }}
+,{ "pid":12345, "tid":10, "ts":1745574080880799, "dur":372288, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":10, "ts":1745574081253146, "dur":4288, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":10, "ts":1745574081257443, "dur":383835, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1745574079865937, "dur":4887, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1745574079870834, "dur":2050, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1745574079874642, "dur":573, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Mono.Data.Tds.dll" }}
+,{ "pid":12345, "tid":11, "ts":1745574079872885, "dur":2520, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1745574079875405, "dur":16260, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1745574079891677, "dur":170, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/D3D12/D3D12Core.dll" }}
+,{ "pid":12345, "tid":11, "ts":1745574079891849, "dur":144, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1745574079892001, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1745574079892071, "dur":83, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1745574079892162, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1745574079892287, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1745574079892376, "dur":99, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1745574079892531, "dur":12812, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1745574079905524, "dur":101568, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1745574079905351, "dur":101745, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1745574080007179, "dur":2461, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1745574080009725, "dur":141685, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":11, "ts":1745574080009651, "dur":141763, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":11, "ts":1745574080151458, "dur":2429, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":11, "ts":1745574080153975, "dur":152863, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1745574080153897, "dur":152944, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1745574080307029, "dur":3456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1745574080310544, "dur":234028, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1745574080310492, "dur":234084, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1745574080544641, "dur":2696, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1745574080547411, "dur":168848, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1745574080547345, "dur":168919, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1745574080716313, "dur":3789, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1745574080720199, "dur":150529, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1745574080720119, "dur":150612, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1745574080870818, "dur":2754, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1745574080873688, "dur":135436, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1745574080873584, "dur":135542, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1745574081009163, "dur":15764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1745574081025055, "dur":433347, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Core.dll" }}
+,{ "pid":12345, "tid":11, "ts":1745574081024937, "dur":433470, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":11, "ts":1745574081458466, "dur":3364, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":11, "ts":1745574081461839, "dur":179442, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1745574079865984, "dur":4855, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1745574079870844, "dur":2142, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1745574079872987, "dur":2842, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1745574079875830, "dur":16093, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1745574079891925, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1745574079892004, "dur":103, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1745574079892118, "dur":188, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":12, "ts":1745574079892307, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1745574079892422, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1745574079892506, "dur":12941, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1745574079905539, "dur":174245, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Numerics.dll" }}
+,{ "pid":12345, "tid":12, "ts":1745574079905453, "dur":174333, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":12, "ts":1745574080079831, "dur":2477, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":12, "ts":1745574080082435, "dur":164684, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1745574080082320, "dur":164803, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1745574080247167, "dur":2559, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1745574080249800, "dur":156662, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1745574080249736, "dur":156730, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1745574080406539, "dur":7425, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1745574080414048, "dur":193009, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":12, "ts":1745574080413974, "dur":193086, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":12, "ts":1745574080607107, "dur":3345, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":12, "ts":1745574080610533, "dur":92131, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1745574080610462, "dur":92207, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1745574080702737, "dur":11404, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1745574080714225, "dur":294352, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":12, "ts":1745574080714156, "dur":294424, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":12, "ts":1745574081015243, "dur":244, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1745574081008628, "dur":6889, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":12, "ts":1745574081015618, "dur":103955, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1745574081015526, "dur":104051, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1745574081119618, "dur":3167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1745574081122862, "dur":117102, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1745574081122795, "dur":117174, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1745574081240008, "dur":7118, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1745574081247145, "dur":394106, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1745574079866065, "dur":4835, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1745574079870907, "dur":1737, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1745574079872645, "dur":2135, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1745574079874782, "dur":1952, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1745574079876735, "dur":15050, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1745574079891794, "dur":275, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":13, "ts":1745574079892071, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1745574079892149, "dur":173, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":13, "ts":1745574079892323, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1745574079892403, "dur":92, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1745574079892500, "dur":12780, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1745574079905662, "dur":134617, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":13, "ts":1745574079905282, "dur":135001, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":13, "ts":1745574080040328, "dur":4423, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":13, "ts":1745574080044865, "dur":116798, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1745574080044762, "dur":116904, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1745574080161781, "dur":19001, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1745574080180901, "dur":88296, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1745574080180831, "dur":88370, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1745574080269250, "dur":13672, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1745574080282985, "dur":124681, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1745574080282928, "dur":124740, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1745574080407749, "dur":7401, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1745574080415257, "dur":173944, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1745574080415165, "dur":174040, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1745574080589289, "dur":2508, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1745574080591865, "dur":120970, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1745574080591806, "dur":121035, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1745574080712921, "dur":2588, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1745574080715591, "dur":202485, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1745574080715515, "dur":202566, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1745574080918146, "dur":8804, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1745574080927041, "dur":94714, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1745574080926962, "dur":94797, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1745574081024202, "dur":31884, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1745574081056160, "dur":200761, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":13, "ts":1745574081056097, "dur":200830, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":13, "ts":1745574081257024, "dur":4009, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":13, "ts":1745574081261039, "dur":380193, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1745574079866123, "dur":4802, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1745574079870936, "dur":2184, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1745574079873121, "dur":1641, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1745574079874763, "dur":1995, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1745574079876759, "dur":15010, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1745574079891778, "dur":168, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":14, "ts":1745574079891948, "dur":243, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1745574079892199, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1745574079892267, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1745574079892355, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1745574079892448, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1745574079892503, "dur":12772, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1745574079905728, "dur":155546, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1745574079905282, "dur":155997, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1745574080061351, "dur":3124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1745574080064541, "dur":209215, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1745574080064484, "dur":209275, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1745574080273796, "dur":5845, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1745574080279713, "dur":109408, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1745574080279652, "dur":109472, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1745574080389163, "dur":26231, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1745574080415468, "dur":95918, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1745574080415398, "dur":95992, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1745574080511432, "dur":2240, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1745574080513752, "dur":264506, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":14, "ts":1745574080513681, "dur":264580, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":14, "ts":1745574080778329, "dur":18300, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":14, "ts":1745574080796715, "dur":129304, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1745574080796641, "dur":129382, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1745574080926127, "dur":2051, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1745574080928254, "dur":96038, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1745574080928184, "dur":96111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1745574081024315, "dur":3472, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1745574081027862, "dur":133710, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\netstandard.dll" }}
+,{ "pid":12345, "tid":14, "ts":1745574081027798, "dur":133783, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":14, "ts":1745574081161726, "dur":3245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":14, "ts":1745574081164980, "dur":476284, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1745574079866170, "dur":4778, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1745574079870954, "dur":2548, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1745574079873502, "dur":2909, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1745574079876411, "dur":15389, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1745574079891809, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":15, "ts":1745574079891942, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1745574079892012, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":15, "ts":1745574079892105, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1745574079892174, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1745574079892236, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1745574079892306, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1745574079892378, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1745574079892439, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1745574079892496, "dur":12790, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1745574079905517, "dur":84319, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1745574079905292, "dur":84548, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1745574079990819, "dur":2340, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1745574079993248, "dur":86508, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1745574079993166, "dur":86593, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1745574080079807, "dur":2496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1745574080082393, "dur":102486, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1745574080082319, "dur":102566, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1745574080184945, "dur":4554, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1745574080189578, "dur":183892, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":15, "ts":1745574080189510, "dur":183963, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":15, "ts":1745574080373532, "dur":43932, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":15, "ts":1745574080417559, "dur":256057, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":15, "ts":1745574080417475, "dur":256145, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":15, "ts":1745574080673724, "dur":4722, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":15, "ts":1745574080678515, "dur":612840, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Cinemachine.dll" }}
+,{ "pid":12345, "tid":15, "ts":1745574080678455, "dur":612905, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/Unity.Cinemachine.dll" }}
+,{ "pid":12345, "tid":15, "ts":1745574081291424, "dur":4106, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/Unity.Cinemachine.dll" }}
+,{ "pid":12345, "tid":15, "ts":1745574081295541, "dur":345753, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1745574079866257, "dur":4706, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1745574079870964, "dur":2320, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1745574079873286, "dur":2488, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1745574079875775, "dur":16096, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1745574079891880, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":16, "ts":1745574079891986, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1745574079892048, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":16, "ts":1745574079892122, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1745574079892194, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1745574079892254, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1745574079892310, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1745574079892397, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1745574079892517, "dur":12874, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1745574079905591, "dur":393960, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":16, "ts":1745574079905403, "dur":394152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":16, "ts":1745574080299600, "dur":3501, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":16, "ts":1745574080303177, "dur":344776, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Transactions.dll" }}
+,{ "pid":12345, "tid":16, "ts":1745574080303112, "dur":344844, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":16, "ts":1745574080647993, "dur":3465, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":16, "ts":1745574080651532, "dur":92381, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1745574080651469, "dur":92449, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1745574080743968, "dur":4700, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1745574080748766, "dur":439111, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":16, "ts":1745574080748683, "dur":439198, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":16, "ts":1745574081187974, "dur":52, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1745574081188036, "dur":36758, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/adris/Desktop/buildtestcimpagame/FFEDAM1-CIMPA_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":16, "ts":1745574081224802, "dur":416465, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1745574081651188, "dur":2457, "ph":"X", "name": "ProfilerWriteOutput" }
+,
